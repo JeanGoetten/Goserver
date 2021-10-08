@@ -1,2 +1,2 @@
 # Goserver
- Simple server in golang
+ Simple golang server
